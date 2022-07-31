@@ -1,0 +1,21 @@
+.header{
+    padding-left: 2%;
+    font-style: serif;
+    font-size: 20px;
+    color:rgb(0, 0, 0)
+}
+.paragraph{
+    padding-left:2%;
+    font-style: serif;
+    color:rgb(0, 0, 0);
+    font-size: 17px;
+
+    
+}
+.list{
+    padding-left:2%;
+    font-style: serif;
+    color:rgb(0, 0, 0);
+    font-size: 15px;
+
+}
